@@ -1,11 +1,11 @@
-# Welcome
+## Welcome
 
-- 👋 Hi, I’m T U T E, Student and game developer from argentina
-# skill
+- 👋 Hi, I’m T U T E, Student and Game Developer from Argentina
+### skill
 - c#
 - python
 - Unity
-# contact
+### contact me
 - Discord: tuteuwu
 <!---
 theTute/theTute is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
