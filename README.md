@@ -2,9 +2,9 @@
 
 - 👋 Hi, I’m T U T E, Student and game developer from argentina
 # skill
--c#
--python
--Unity
+- c#
+- python
+- Unity
 # contact
 - Discord: tuteuwu
 <!---
