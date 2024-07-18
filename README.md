@@ -1,6 +1,10 @@
 # Welcome
 
-- 👋 Hi, I’m T U T E
+- 👋 Hi, I’m T U T E, Student and game developer from argentina
+# skill
+-c#
+-python
+-Unity
 # contact
 - Discord: tuteuwu
 <!---
